@@ -1,4 +1,4 @@
-# Python Package
+# <name>
 
 [![Travis](https://img.shields.io/travis/okfn/placeholder.svg)](https://travis-ci.org/okfn/placeholder)
 [![Coveralls](http://img.shields.io/coveralls/okfn/placeholder.svg?branch=master)](https://coveralls.io/r/okfn/placeholder?branch=master)
