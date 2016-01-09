@@ -3,8 +3,7 @@
 [![Travis](https://img.shields.io/travis/okfn/placeholder.svg)](https://travis-ci.org/okfn/placeholder)
 [![Coveralls](http://img.shields.io/coveralls/okfn/placeholder.svg?branch=master)](https://coveralls.io/r/okfn/placeholder?branch=master)
 
-Change all `<.*>` etc placeholders corresponding to your package metadata (for examples `ag '<.*>'` to find all of them). Almost all repository files are generic. So it could be copied
-from project to project without any change.
+Change all `<.*>` etc placeholders corresponding to your package metadata (for examples `ag '<.*>'` to find all of them) and remove this paragraph. Almost all repository files are project-agnostic. So it could be copied from project to project without any change.
 
 ## Usage
 
