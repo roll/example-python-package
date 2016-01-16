@@ -15,11 +15,10 @@ env:
     - TOXENV="py${PYTHON_VERSION//./}"
 
 install:
-  - python run.py install
+  - pip install -Urrequirements.dev.txt
 
 script:
-  - python run.py review
-  - python run.py test
+  - mario check
 
 after_success:
-  - python run.py report
+  - mario report

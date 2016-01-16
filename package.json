@@ -1,5 +1,4 @@
 {
-
   "name": "<name>",
   "description": "<description>",
   "version": "0.1.0",
@@ -13,14 +12,5 @@
     "<classifier1>",
     "<classifier2>",
     "<classifier3>"
-  ],
-
-  "scripts": {
-    "check": "python run.py review && python run.py test",
-    "prepare": "pip install --upgrade -r requirements.dev.txt",
-    "report": "coveralls",
-    "review": "pylama <name>",
-    "test": "PACKAGE=<name> tox"
-  }
-
+  ]
 }
