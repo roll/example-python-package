@@ -5,14 +5,14 @@
 
 Change all `<.*>` etc placeholders corresponding to your package metadata (for examples `ag '<.*>'` to find all of them) and remove this paragraph. Almost all repository files are project-agnostic.
 
-# Features
+## Features
 
 ...
 
-# Example
+## Example
 
 ...
 
-# Read more
+## Read more
 
 ...
