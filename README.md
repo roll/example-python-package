@@ -7,12 +7,20 @@ Change all `<.*>` etc placeholders corresponding to your package metadata (for e
 
 ## Features
 
-...
+<features>
 
 ## Example
 
-...
+<example>
 
 ## Read more
 
-...
+<read more>
+
+## Contributing
+
+Please read the contribution guideline:
+
+[How to Contribute](CONTRIBUTING.md)
+
+Thanks!
