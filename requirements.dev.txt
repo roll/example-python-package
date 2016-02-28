@@ -1,9 +1,0 @@
--r requirements.txt
-mario
-pylama
-tox
-mock
-pytest
-pytest-cov
-coverage
-coveralls
